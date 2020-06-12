@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="Joystick">
+        <attr name="stickRadius" format="dimension" />
+        <attr name="fieldRadius" format="dimension" />
+        <attr name="intent" format="dimension" />
+        <attr name="stickColor" format="color" />
+        <attr name="fieldColor" format="color" />
+    </declare-styleable>
+</resources>
